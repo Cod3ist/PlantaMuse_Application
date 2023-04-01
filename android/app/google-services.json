@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615403097360",
+    "firebase_url": "https://plantamuse-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "plantamuse",
+    "storage_bucket": "plantamuse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615403097360:android:3108a72a11512851402995",
+        "android_client_info": {
+          "package_name": "com.example.plantamuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615403097360-35o1pj811kreu5u36bsj8krh86p753ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantamuse",
+            "certificate_hash": "4c6b21c56282f82034b45e20ce8fccddca53c657"
+          }
+        },
+        {
+          "client_id": "615403097360-vjroi7se8d7m82l9kgou3j3qr582j2oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMXOvX9gYXEjYLZ0ZGnU9qSyuzr5MWoec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615403097360-vjroi7se8d7m82l9kgou3j3qr582j2oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
